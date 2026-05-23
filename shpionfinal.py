@@ -184,7 +184,6 @@ LANG_TEXTS = {
             "/profile — ваша статистика\n"
             "/top — топ игроков по победам\n"
             "/rules — правила\n"
-            "/people — количество пользователей бота\n"
             "/locations - все локации\n"
             "/guess - попробовать угадать локацию\n"
         ),
@@ -234,7 +233,6 @@ LANG_TEXTS = {
             "/profile — your stats\n"
             "/top — top players by wins\n"
             "/rules — rules\n"
-            "/people — number of bot users\n"
             "/locations - all locations\n"
             "/guess - try to guess the location\n"
         ),
@@ -284,7 +282,6 @@ LANG_TEXTS = {
             "/profile — sizning statistika\n"
             "/top — g‘alabalarga ko‘ra top\n"
             "/rules — qoidalar\n"
-            "/people — bot foydalanuvchilari soni\n"
             "/locations - barcha joylar\n"
             "/guess - joyni topishga harakat qilish\n"
         ),
