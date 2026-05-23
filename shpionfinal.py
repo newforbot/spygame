@@ -26,8 +26,8 @@ logger = logging.getLogger(__name__)
 TOKEN = os.getenv("TOKEN")
 ADMIN_ID = int(os.getenv("ADMIN_ID", "5213637344"))
 
-DATA_FILE = "spybot_data.json"
-LOCATIONS_FILE = "locations.json"
+DATA_FILE = "/data/spybot_data.json"
+LOCATIONS_FILE = "/data/locations.json"
 AUTOSAVE_INTERVAL = 120  # seconds
 
 # === ЗАГРУЗКА / СОХРАНЕНИЕ ДАННЫХ ===
